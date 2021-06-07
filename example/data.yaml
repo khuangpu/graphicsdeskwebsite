@@ -1,0 +1,23 @@
+name: Kate Huangpu
+bio: Columbia Journalism '21 Data Journalism | Previously -  @ABCWorldNews, @msnbc, @newsdeeply, @ColumbiaSpec | @aaja & IRE | PHL/NYC | hoagie not hero | she/her
+links:
+  - target: mailto:khuangpu13@gmail.com
+    text: 📧 email
+  - target: https://khuangpu.github.io/graphicsdeskwebsite/
+    text: 🏠 homepage
+  - target: https://twitter.com/KateHuangpu13
+    text: '@KateHuangpu13'
+pages:
+  - type: gdoc
+    title: Over 10,000 complaints are lodged against the NYPD each year. Less than 5% end in punishment.
+    slug: first-project
+    url: https://docs.google.com/document/d/1JwnWXQwtqEQ32zyzR-MS1tHzaOCOSeJC5G4lNQWRBjw/edit
+  - type: gdoc
+    title: Resources for Domestic Violence Survivors Simply Not Enough
+    slug: second-project
+    url: https://docs.google.com/document/d/133gdwANqifjA-TYz1ZD8mkUrlrju9cadFZfEnmNkBSQ/edit?usp=sharing
+  - type: html
+    title: Scrollytelling Practice - Over 10,000 complaints are lodged against the NYPD each year. Less than 5% end in punishment.
+    template: html_bootstrap
+    slug: third-project
+    filepath: file:///Users/kHuangpu/Desktop/Grad%20School/Semester%203/Graphics%20Desk/HW2/simplified-scrollama-scrollytelling-main/sticky-side.html 
