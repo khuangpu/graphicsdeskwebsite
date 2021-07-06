@@ -22,7 +22,7 @@ pages:
     slug: third-project
     filepath: content/sticky-side.html
   - type: html
-    title: Graphic ai2html Practice
+    title: Ai2HTML Practice - Crime Rates in NYC
     template: html_bootstrap
     slug: fourth-project
-    filepath: content/ai2html-output/sticky-side.html
+    filepath: content/Major-Crime.html
