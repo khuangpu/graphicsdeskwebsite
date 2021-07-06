@@ -24,5 +24,5 @@ pages:
   - type: html
     title: Ai2HTML Practice - Crime Rates in NYC
     template: html_bootstrap
-    slug: yet-another-project
+    slug: fourth-project
     filepath: content/Major-Crime.html
